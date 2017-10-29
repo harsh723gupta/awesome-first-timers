@@ -19,7 +19,7 @@ Use this link:
 Mac:
 ```https://git-scm.com/download/mac```  
 
-## Contributing to this repository:
+## Contributing to this repository
 1. Star this repository
 2. Fork this repository
 3. Open users.md and enter details in the following format  
